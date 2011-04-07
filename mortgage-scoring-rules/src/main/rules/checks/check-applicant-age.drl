@@ -1,0 +1,4 @@
+package com.example.scoring.applicant;
+
+rule "Applicant must be of age"
+when

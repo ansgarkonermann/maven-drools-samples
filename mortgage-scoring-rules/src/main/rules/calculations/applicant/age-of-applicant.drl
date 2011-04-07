@@ -1,0 +1,11 @@
+package com.example.scoring.calculations.applicant;
+
+import com.example.scoring.facts.*;
+
+rule "Calculate age of applicant"
+  when
+    Applicant( $dateOfBirth: dateOfBirth )
+  then
+
+    insertLogical(ageOfApplicant);
+end

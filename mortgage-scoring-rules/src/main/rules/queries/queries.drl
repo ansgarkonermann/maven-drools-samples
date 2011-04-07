@@ -1,0 +1,5 @@
+package com.example.scoring.queries;
+
+query "extractFindings"
+  $finding: ScoringFinding()
+end
