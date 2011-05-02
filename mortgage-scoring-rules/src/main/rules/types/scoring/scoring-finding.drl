@@ -1,0 +1,6 @@
+package com.example.scoring;
+
+declare ScoringFinding
+  severity: int
+  message: String
+end

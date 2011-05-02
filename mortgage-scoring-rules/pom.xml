@@ -60,7 +60,7 @@
             </pass>
             <pass>
               <name>Maximum Loan Amount Calculation</name>
-              <ruleSourceRoot>${basedir}/src/main/rules/calculations/maxloanonincome</ruleSourceRoot>
+              <ruleSourceRoot>${basedir}/src/main/rules/calculations/maxloanamount</ruleSourceRoot>
             </pass>
             <pass>
               <name>Scoring Finding Types</name>

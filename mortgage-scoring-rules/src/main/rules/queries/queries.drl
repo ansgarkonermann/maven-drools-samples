@@ -1,5 +1,7 @@
 package com.example.scoring.queries;
 
+import  com.example.scoring.ScoringFinding;
+
 query "extractFindings"
   $finding: ScoringFinding()
 end
