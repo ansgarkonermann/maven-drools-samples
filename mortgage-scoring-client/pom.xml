@@ -33,4 +33,12 @@
 
   <name>Mortgage Scoring :: Client Application</name>
 
+  <dependencies>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>mortgage-scoring-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
+
 </project>
